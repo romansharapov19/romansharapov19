@@ -2,7 +2,7 @@
 <img src="https://thumbs.gfycat.com/OpenIllfatedComet.webp" alt="hello" width="40" height="40"/> 
 </h1>
 <h3 align="center">A software engineer from Portugal.</h3>
-<img align="right" alt="coding" width="320" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=750w">
+<img align="right" alt="coding" width="290" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif">
 
 -   🚀 I’m currently working on [xgeeks](https://www.xgeeks.io/)
   
@@ -14,7 +14,6 @@
 
 -   💡 Focused on solving problems with code!
 
-</br>
 </br>
 
 
@@ -97,14 +96,12 @@
 	</a> 
 </p>
 </br>
-</br>
 
 
 
 # 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=romansharapov19&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romansharapov19&theme=darcula&hide_border=true)<br/>
-</br>
 </br>
 
 
